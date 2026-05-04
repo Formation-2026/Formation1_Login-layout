@@ -15,7 +15,10 @@ body{
 section{
     display: flex;
     gap: 3.3rem;
-    margin: 8.1rem 9.5rem 10.4rem 12.4rem;
+}
+.img1{
+    width: 70rem;
+    height: 71.9rem;
 }
 .block1>h2{
     font-size: 4rem;
@@ -55,7 +58,7 @@ section{
     width: 56rem;
     height: 7.4rem;
     border: 0.1rem solid #8EA7E9;
-    color: #D9D9D9;
+    color: #9E9E9F;
     border-radius: 2rem;
     margin-bottom: 2.1rem;
     padding-left: 4.5rem;
@@ -83,8 +86,8 @@ section{
     width: 56rem;
     height: 7.4rem;
     border-radius: 2rem;
-    border: 0.1rem solid #9E9E9FFA;
-    color: #D9D9D9;
+    border: 0.1rem solid #9E9E9F;
+    color: #9E9E9F;
     margin-top: 1rem;
     padding-left: 4.5rem;
     font-size: var(--Taille);
@@ -120,7 +123,7 @@ p {
     margin-bottom: 7.4rem;
 }
 
-p::before, p::after {
+p::before, p::after { 
     content: '';
     width: 21.6rem;
     border: 0.1rem solid #9E9E9F; 
