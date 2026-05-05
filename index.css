@@ -14,10 +14,10 @@ body{
 }
 section{
     display: flex;
-    gap: 3.3rem;
+    gap: 2.3rem;
 }
 .img1{
-    width: 1780000rem;
+    width: 500rem;
     height: 52rem;
 }
 .block1>h2{
@@ -46,11 +46,11 @@ section{
 .img2{
     position: absolute;
     left: 1rem;
-    top: 4.5rem;
+    top: 3.8rem;
     width: 2rem;
     height: 1.6rem;
     pointer-events: none;
-    margin-left: 0.5rem;
+    margin-left: 0.2rem;
     
 }
 .input1{
@@ -77,10 +77,10 @@ section{
 .img3{
    position: absolute;
    left: 1rem;
-   top: 3rem;
+   top: 2.8rem;
    width: 1.6rem;
    height: 2.1rem;
-   margin-left: 0.5rem;
+   margin-left: 0.2rem;
 }
 .input2{
     width: 40rem;
@@ -131,7 +131,7 @@ p::before, p::after {
 .block3{
     position: relative;
     display: flex;
-    gap: 9.6rem;
+    gap: 7.6rem;
 }
 .img5{
     position: absolute;
@@ -145,13 +145,13 @@ p::before, p::after {
     position: absolute;
     width: var(--largeur);
     height: 5.735rem;
-    left: 23.6rem;
+    left: 21.5rem;
     top: 2.2rem;
 }
 .img9{
     position: absolute;
     width: var(--largeur);
     height: 5.8rem;
-    left: 43.5rem;
+    left: 39.7rem;
     top: 2.3rem;
 }
