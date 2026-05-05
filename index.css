@@ -152,6 +152,6 @@ p::before, p::after {
     position: absolute;
     width: var(--largeur);
     height: 5.8rem;
-    left: 42.7rem;
+    left: 43.5rem;
     top: 2.3rem;
 }
